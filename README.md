@@ -1,2 +1,2 @@
 # EstudoDeCaso-Covid
-Análise de dados do Covid-19.
+Dados disponíveis em: https://ourworldindata.org/covid-deaths
